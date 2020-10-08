@@ -1,0 +1,7 @@
+# From https://ftp.postgresql.org/pub/source/v11.7/postgresql-11.7.tar.bz2.md5
+md5 1cf8e7533b103e2aa9de6e76d477f67d  postgresql-11.7.tar.bz2
+# From https://ftp.postgresql.org/pub/source/v11.7/postgresql-11.7.tar.bz2.sha256
+sha256 324ae93a8846fbb6a25d562d271bc441ffa8794654c5b2839384834de220a313  postgresql-11.7.tar.bz2
+
+# License file, Locally calculated
+sha256	739e5d454d81d31a482469338b7c856f1f5c6b4cdda1551cea6f0f6d18eef62c  COPYRIGHT
